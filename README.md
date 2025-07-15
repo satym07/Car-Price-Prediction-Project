@@ -15,4 +15,4 @@ Model training and evaluation
 Saving models and encoders
 Building an interactive UI with Streamlit
 🚀 Run the App
-""streamlit run app.py""
+"streamlit run app.py"
