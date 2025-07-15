@@ -9,12 +9,6 @@ Encodes categorical features using pre-fitted encoders
 Provides an interactive UI built with Streamlit
 
 
-🧠 What I Learned
-Cleaning and preprocessing real-world data
-Label encoding and handling categorical variables
-Training and evaluating regression models
-Saving models and encoders using joblib
-Building a UI and connecting it to ML logic
 📁 Project Structure
 ├── car data.csv             # Dataset
 ├── train_model.py           # Model training and encoder saving
