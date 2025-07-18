@@ -9,17 +9,6 @@ Encodes categorical features using pre-fitted encoders
 Provides an interactive UI built with Streamlit
 
 
-📁 Project Structure
-├── car data.csv             # Dataset
-├── train_model.py           # Model training and encoder saving
-├── app.py                   # Streamlit app
-├── updated_model.pkl        # Trained model
-├── car_encoder.pkl          # Car name encoder
-├── fuel_encoder.pkl         # Fuel type encoder
-├── owner_encoder.pkl        # Owner type encoder
-├── run_app.sh               # Shortcut to run the app
-
-
 🛠 Tools I Used
 Python
 Pandas, NumPy
