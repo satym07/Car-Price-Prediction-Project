@@ -24,7 +24,8 @@ The design is clean, dark-themed, and user-friendly.
 ✔ Background image for improved UI aesthetics
 🛠 Technologies Used
 Python
-Pandas, NumPy
+Pandas
+NumPy
 Scikit-learn
 Streamlit
 Joblib
@@ -49,7 +50,7 @@ Evaluation metrics include:
 MAE
 RMSE
 R² Score
-You can add your specific values (optional).
+(You can add your specific metric values here.)
 ⭐ Summary
 This project demonstrates:
 End-to-end ML development
