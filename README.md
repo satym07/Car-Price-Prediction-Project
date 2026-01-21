@@ -63,7 +63,7 @@ Visualizations were used to clearly communicate trends and correlations in the d
 ## 🚀 How to Run the Project
 
 ### 1️⃣ Clone the Repository
-```bash
+
 git clone <repository-url>
 cd <repository-folder>
 
