@@ -64,18 +64,18 @@ Visualizations were used to clearly communicate trends and correlations in the d
 ## 🚀 How to Run the Project
 
 ### 1️⃣ Clone the Repository
-
+```
 git clone <repository-url>
 cd <repository-folder>
-
+```
 ### 2️⃣ Install Dependencies
-
+```
 pip install -r requirements.txt
-
+```
 ### 3️⃣ Run the Application
-
+```
 streamlit run app.py
-
+```
 ### ⭐ Key Takeaways
 This project helped me to:
 Strengthen my understanding of data cleaning and preprocessing
