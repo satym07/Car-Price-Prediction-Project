@@ -67,19 +67,23 @@ Visualizations were used to clearly communicate trends and correlations in the d
 git clone <repository-url>
 cd <repository-folder>
 
-Install Dependencies
+### 2️⃣ Install Dependencies
+
 pip install -r requirements.txt
 
-Run the Application
+### 3️⃣ Run the Application
+
 streamlit run app.py
 
-Key Takeaways
-This project helped me:
+### ⭐ Key Takeaways
+This project helped me to:
 Strengthen my understanding of data cleaning and preprocessing
 Gain hands-on experience with Exploratory Data Analysis (EDA)
 Improve my ability to interpret and visualize real-world data
 Develop a structured approach to solving data analysis problems using Python
 
-📌 Summary
+### 📌 Summary
 This project demonstrates my ability to work with real-world datasets and apply data analytics techniques using Python to uncover insights and support informed decision-making.
+
+
 
