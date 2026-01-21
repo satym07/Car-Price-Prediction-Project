@@ -51,6 +51,7 @@ Visualizations were used to clearly communicate trends and correlations in the d
 
 ## 📁 Project Structure
 
+
 ├── app.py # Streamlit interface for interactive data exploration
 ├── train_model.py # Data preprocessing and analysis workflow
 ├── car data.csv # Dataset used for analysis
